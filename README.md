@@ -9,5 +9,5 @@ OLR datasets was classified into differnt phases as defined in the following pap
 C. T. Sabeerali, R. S. Ajayamohan, D. Giannakis, and A. J. Majda, “Extraction and prediction of indices for monsoon intraseasonal oscillations: an approach based on nonlinear Laplacian spectral analysis,” Climate Dynamics, Dec 2017.
 https://link.springer.com/content/pdf/10.1007%2Fs00382-016-3491-y.pdf
 
-I obtained MISO1 and MISO2 data computed using Nonlinear Laplacian Spectral Analysis of OLR in the Indian region through Dr. R.S Ajayamohan, one of the co-authors of the paper discussed above. I then computed MISO phases (1-8) when the amplitude was greater than 1.5 as defined in the paper. I labelled the phase as phase 0 when the amplitude was less than 1.5
+I obtained MISO1 and MISO2 data computed using Nonlinear Laplacian Spectral Analysis of OLR in the Indian region from Dr. R.S Ajayamohan, one of the co-authors of the paper discussed above. MISO1 and MISO2 data is in 'miso.nc' file in this repository. I then computed MISO phases (1-8) when the amplitude was greater than 1.5 as defined in the paper. I labelled the phase as phase 0 when the amplitude was less than 1.5
 
