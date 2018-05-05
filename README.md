@@ -5,7 +5,7 @@ Climate scientists use methods of decomposition of Outgoing Longwave Radiation (
 I used daily mean OLR dataset obtained from National Oceanic and Atmospheric Administration. You can access the 'olr.day.mean.nc' file in the following webpage:
 https://www.esrl.noaa.gov/psd/data/gridded/data.interp_OLR.html
 
-OLR datasets was classified into differnt phases as defined in the following paper:
+OLR datasets was classified into different phases as defined in the following paper:
 C. T. Sabeerali, R. S. Ajayamohan, D. Giannakis, and A. J. Majda, “Extraction and prediction of indices for monsoon intraseasonal oscillations: an approach based on nonlinear Laplacian spectral analysis,” Climate Dynamics, Dec 2017.
 https://link.springer.com/content/pdf/10.1007%2Fs00382-016-3491-y.pdf
 
